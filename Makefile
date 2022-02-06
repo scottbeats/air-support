@@ -1,4 +1,4 @@
-METAPLEX_PATH ?= "../metaplex"
+METAPLEX_PATH ?= "C:\GitHub\metaplex"
 KEY ?= "/Users/skeletoncrew/solana/skull-prod.json"
 RPC_HOST ?= "https://api.devnet.solana.com/"
 DROP ?= 1
